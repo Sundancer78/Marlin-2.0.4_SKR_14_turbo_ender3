@@ -1,2 +1,2 @@
-#define WIFI_SSID "WiFi_SSID"
-#define WIFI_PWD  "MEandtheDevil"
+#define WIFI_SSID "WIFI_SSID"
+#define WIFI_PWD  "WIFI_PWD"
