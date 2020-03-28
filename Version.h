@@ -34,14 +34,14 @@
  * Verbose version identifier which should contain a reference to the location
  * from where the binary was downloaded or the source code was compiled.
  */
-#define DETAILED_BUILD_VERSION SHORT_BUILD_VERSION " (02)"
+#define DETAILED_BUILD_VERSION SHORT_BUILD_VERSION " (03)"
 
 /**
  * The STRING_DISTRIBUTION_DATE represents when the binary file was built,
  * here we define this default string as the date where the latest release
  * version was tagged.
  */
-#define STRING_DISTRIBUTION_DATE "2020-03-07"
+#define STRING_DISTRIBUTION_DATE "2020-03-17"
 
 /**
  * Defines a generic printer name to be output to the LCD after booting Marlin.
