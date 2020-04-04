@@ -1,2 +1,2 @@
-#define WIFI_SSID "WIFI_SSID"
-#define WIFI_PWD  "WIFI_PWD"
+#define WIFI_SSID "SoapSkin"
+#define WIFI_PWD  "MeandtheDevil12011978%"
